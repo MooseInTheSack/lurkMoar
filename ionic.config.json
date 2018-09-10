@@ -1,0 +1,7 @@
+{
+  "name": "superLurkMoar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
